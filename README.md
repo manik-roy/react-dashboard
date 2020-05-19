@@ -1,11 +1,4 @@
-This project was Material ui with react build a Dashboard,  visit live demo: (https://matarial-ui-react-dashboard.netlify.com/).
+React Dashboard is a react dashboard template built with Material-UI framework. This react template will be a great start to built a front-end for SAAS, E-Commerce, IoT dashboard or whatever web app you like
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# [Live](https://matarial-ui-react-dashboard.netlify.app/)
 
